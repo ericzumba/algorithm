@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "some algorithm implementations just for fun",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericzumba/algorithm.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "Eric Torti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericzumba/algorithm/issues"
+  },
+  "homepage": "https://github.com/ericzumba/algorithm#readme"
+}
